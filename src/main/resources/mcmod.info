@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pixelplus",
+  "name": "PixelPlus",
+  "description": "Enhances the Hypixel player's gameplay.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["KevyPorter"],
+  "credits": "",
+  "logoFile": "pixelplus.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
