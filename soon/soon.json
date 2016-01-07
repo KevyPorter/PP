@@ -25,45 +25,24 @@
             "name":"King",
             "tag":"ADMIN",
             "cape":true
-         }
-      },
-      "Trial Admins":{
+         },
          "1d4d57dc-6a93-48d1-8ddf-7b25200247e3":{
             "name":"smudgerox",
-            "tag":"TRIAL",
-            "cape":false
+            "tag":"ADMIN",
+            "cape":true
          }
       },
       "Donors":{
          "########-####-####-####-############":{
-            "name":"Sample0",
-            "tag":"DONOR",
-            "cape":true
-         },
-         "########-####-####-####-############":{
-            "name":"Sample1",
-            "tag":"DONOR",
-            "cape":true
-         },
-         "########-####-####-####-############":{
-            "name":"Sample2",
-            "tag":"DONOR",
-            "cape":false
-         },
-         "########-####-####-####-############":{
-            "name":"Sameple3",
+            "name":"Sample",
             "tag":"DONOR",
             "cape":true
          }
       },
       "Banned":{
          "########-####-####-####-############":{
-            "name":"Sample4",
-            "reason":"Disrespecting the Pixel+ team and being an overal dick to others."
-         },
-         "########-####-####-####-############":{
-            "name":"Sample5",
-            "reason":"Abusing the '/####' command."
+            "name":"Sample",
+            "reason":"Sample reason."
          }
       }
    }
